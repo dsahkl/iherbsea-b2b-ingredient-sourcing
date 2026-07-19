@@ -24,7 +24,9 @@ This repository is maintained as a lightweight public resource for procurement, 
 - [White Pepper Powder](https://www.iherbsea.com/product/white-pepper-powder/)
 - [Cocoa Powder](https://www.iherbsea.com/product/cocoa-powder/)
 - [Organic Cranberry Extract](https://www.iherbsea.com/product/organic-cranberry-extract/)
+- [Organic Cranberry Extract Supplier Guide](https://www.iherbsea.com/organic-cranberry-extract-supplier-guide/)
 - [Longan Pulp Extract](https://www.iherbsea.com/product/longan-pulp-extract/)
+- [Longan Pulp Extract Supplier Guide](https://www.iherbsea.com/longan-pulp-extract-supplier-guide/)
 - [Contact HERBSEA for specifications and samples](https://www.iherbsea.com/contact-plant-extract-supplier/)
 
 ## Use

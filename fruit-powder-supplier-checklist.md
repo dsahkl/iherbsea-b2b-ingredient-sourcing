@@ -50,4 +50,5 @@ Related HERBSEA references:
 - [Fruit Powder Category](https://www.iherbsea.com/product-category/fruit-powder/)
 - [Organic Cranberry Extract](https://www.iherbsea.com/product/organic-cranberry-extract/)
 - [Longan Pulp Extract](https://www.iherbsea.com/product/longan-pulp-extract/)
+- [Longan Pulp Extract Supplier Guide](https://www.iherbsea.com/longan-pulp-extract-supplier-guide/)
 - [Contact HERBSEA for specifications and samples](https://www.iherbsea.com/contact-plant-extract-supplier/)
