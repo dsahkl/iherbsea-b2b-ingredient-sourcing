@@ -13,6 +13,13 @@ This repository is maintained as a lightweight public resource for procurement, 
 - [Botanical Extract Supplier Comparison](botanical-extract-supplier-comparison.md) - compare botanical extract suppliers by assay, document readiness, sample support and commercial fit.
 - [Supplier RFQ Template](supplier-rfq-template.md) - a practical template for requesting ingredient specifications, COA, samples, packing information, MOQ and lead time.
 
+## PDF Downloads
+
+- [Tea Powder Procurement Checklist PDF](https://github.com/dsahkl/iherbsea-b2b-ingredient-sourcing/releases/download/v1.0.0/tea-powder-procurement-checklist.pdf)
+- [Plant Extract COA Review Checklist PDF](https://github.com/dsahkl/iherbsea-b2b-ingredient-sourcing/releases/download/v1.0.0/plant-extract-coa-review-checklist.pdf)
+- [Fruit Powder Supplier Checklist PDF](https://github.com/dsahkl/iherbsea-b2b-ingredient-sourcing/releases/download/v1.0.0/fruit-powder-supplier-checklist.pdf)
+- [Supplier RFQ Template PDF](https://github.com/dsahkl/iherbsea-b2b-ingredient-sourcing/releases/download/v1.0.0/supplier-rfq-template.pdf)
+
 ## Related HERBSEA Pages
 
 - [Bulk Instant Tea Powder Supplier Guide](https://www.iherbsea.com/bulk-instant-tea-powder-supplier/)
