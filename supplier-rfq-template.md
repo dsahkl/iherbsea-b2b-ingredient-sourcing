@@ -60,3 +60,5 @@ Please confirm whether the sample grade can be connected to a stable commercial 
 Related HERBSEA contact page:
 
 - [Request ingredient specifications, COA, samples and quotation details](https://www.iherbsea.com/contact-plant-extract-supplier/)
+- [Fruit Powder Supplier Guide](https://www.iherbsea.com/fruit-powder-supplier-guide/)
+- [Plant Extract COA Review Checklist](https://www.iherbsea.com/plant-extract-coa-review-checklist/)

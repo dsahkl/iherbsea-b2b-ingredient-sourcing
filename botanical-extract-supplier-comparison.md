@@ -51,6 +51,7 @@ Compare:
 Related HERBSEA references:
 
 - [Plant Extract Category](https://www.iherbsea.com/product-category/plant-extract/)
+- [Plant Extract COA Review Checklist](https://www.iherbsea.com/plant-extract-coa-review-checklist/)
 - [Mulberry Leaf Extract](https://www.iherbsea.com/product/mulberry-leaf-extract/)
 - [Organic Cranberry Extract](https://www.iherbsea.com/product/organic-cranberry-extract/)
 - [Contact HERBSEA for specifications and samples](https://www.iherbsea.com/contact-plant-extract-supplier/)

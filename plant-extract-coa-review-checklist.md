@@ -49,6 +49,7 @@ Record the same points for each sample:
 Related HERBSEA references:
 
 - [Plant Extract Category](https://www.iherbsea.com/product-category/plant-extract/)
+- [Plant Extract COA Review Checklist](https://www.iherbsea.com/plant-extract-coa-review-checklist/)
 - [Mulberry Leaf Extract](https://www.iherbsea.com/product/mulberry-leaf-extract/)
 - [Organic Cranberry Extract](https://www.iherbsea.com/product/organic-cranberry-extract/)
 - [Organic Cranberry Extract Supplier Guide](https://www.iherbsea.com/organic-cranberry-extract-supplier-guide/)

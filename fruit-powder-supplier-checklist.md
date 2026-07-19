@@ -48,6 +48,7 @@ Test samples under the same conditions:
 Related HERBSEA references:
 
 - [Fruit Powder Category](https://www.iherbsea.com/product-category/fruit-powder/)
+- [Fruit Powder Supplier Guide](https://www.iherbsea.com/fruit-powder-supplier-guide/)
 - [Organic Cranberry Extract](https://www.iherbsea.com/product/organic-cranberry-extract/)
 - [Longan Pulp Extract](https://www.iherbsea.com/product/longan-pulp-extract/)
 - [Longan Pulp Extract Supplier Guide](https://www.iherbsea.com/longan-pulp-extract-supplier-guide/)

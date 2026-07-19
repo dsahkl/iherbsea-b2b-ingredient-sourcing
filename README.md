@@ -21,6 +21,8 @@ This repository is maintained as a lightweight public resource for procurement, 
 - [Plant Extract Category](https://www.iherbsea.com/product-category/plant-extract/)
 - [Fruit Powder Category](https://www.iherbsea.com/product-category/fruit-powder/)
 - [Spices Powder Category](https://www.iherbsea.com/product-category/spices-powder/)
+- [Fruit Powder Supplier Guide](https://www.iherbsea.com/fruit-powder-supplier-guide/)
+- [Plant Extract COA Review Checklist](https://www.iherbsea.com/plant-extract-coa-review-checklist/)
 - [White Pepper Powder](https://www.iherbsea.com/product/white-pepper-powder/)
 - [Cocoa Powder](https://www.iherbsea.com/product/cocoa-powder/)
 - [Organic Cranberry Extract](https://www.iherbsea.com/product/organic-cranberry-extract/)
