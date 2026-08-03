@@ -25,6 +25,16 @@ This repository is maintained as a lightweight public resource for procurement, 
 - [Instant Tea RFQ Preparation](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/instant-tea-rfq-preparation.html)
 - [Botanical Extract Document Package](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/botanical-extract-document-package.html)
 - [Beverage Powder Application Testing](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/beverage-powder-application-testing.html)
+- [Green Tea Extract Assay Method Review](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/green-tea-extract-assay-method-review.html)
+- [L-Theanine Green Tea Document Check](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/l-theanine-green-tea-document-check.html)
+- [Resveratrol Solubility RFQ Review](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/resveratrol-solubility-rfq-review.html)
+- [Turmeric Extract COA Sample Review](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/turmeric-extract-coa-sample-review.html)
+- [Ginseng Root Extract Supplier Review](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/ginseng-root-extract-supplier-review.html)
+- [Chaga Mushroom Extract Document Check](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/chaga-mushroom-extract-document-check.html)
+- [Strawberry Powder Application RFQ Note](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/strawberry-powder-application-rfq-note.html)
+- [Barley Grass Powder Specification Review](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/barley-grass-powder-specification-review.html)
+- [Instant Green Tea Powder Sourcing Note](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/instant-green-tea-powder-sourcing-note.html)
+- [Cinnamon Powder Quality Review](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/cinnamon-powder-quality-review.html)
 
 ## PDF Downloads
 
@@ -50,6 +60,14 @@ This repository is maintained as a lightweight public resource for procurement, 
 - [Longan Pulp Extract](https://www.iherbsea.com/product/longan-pulp-extract/)
 - [Longan Pulp Extract Supplier Guide](https://www.iherbsea.com/longan-pulp-extract-supplier-guide/)
 - [Contact HERBSEA for specifications and samples](https://www.iherbsea.com/contact-plant-extract-supplier/)
+- [Green Tea Extract Catechins COA Specification Guide](https://www.iherbsea.com/green-tea-extract-catechins-coa-specification-guide/)
+- [L-Theanine HPLC and COA Guide](https://www.iherbsea.com/l-theanine-in-green-tea-extract-hplc-coa-guide/)
+- [Water Soluble Resveratrol Supplier Guide](https://www.iherbsea.com/water-soluble-resveratrol-vs-standard-powder/)
+- [Trans-Resveratrol 99 HPLC Supplier Guide](https://www.iherbsea.com/high-purity-trans-resveratrol-99-hplc-sourcing-formulation-guide/)
+- [Ginseng Family Category](https://www.iherbsea.com/product-category/ginseng-family/)
+- [Mushroom Extract Category](https://www.iherbsea.com/product-category/mushroom-extract/)
+- [Instant Green Tea Powder](https://www.iherbsea.com/product/instant-green-tea-powder/)
+- [Cinnamon Powder](https://www.iherbsea.com/product/cinnamon-powder/)
 
 ## Use
 
