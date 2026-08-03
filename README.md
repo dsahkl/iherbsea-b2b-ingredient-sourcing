@@ -13,6 +13,19 @@ This repository is maintained as a lightweight public resource for procurement, 
 - [Botanical Extract Supplier Comparison](botanical-extract-supplier-comparison.md) - compare botanical extract suppliers by assay, document readiness, sample support and commercial fit.
 - [Supplier RFQ Template](supplier-rfq-template.md) - a practical template for requesting ingredient specifications, COA, samples, packing information, MOQ and lead time.
 
+## GitHub Pages Buyer Review Notes
+
+- [Instant Black Tea Powder Sample Review](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/instant-black-tea-powder-sample-review.html)
+- [Fruit Powder RFQ Fields](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/fruit-powder-rfq-fields.html)
+- [Spice Powder Specification Notes](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/spice-powder-specification-notes.html)
+- [Cocoa Powder Supplier Review](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/cocoa-powder-supplier-review.html)
+- [Organic Cranberry Extract COA Review](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/organic-cranberry-extract-coa-review.html)
+- [Longan Pulp Extract Sample Plan](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/longan-pulp-extract-sample-plan.html)
+- [Plant Extract Supplier Shortlist Criteria](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/plant-extract-supplier-shortlist.html)
+- [Instant Tea RFQ Preparation](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/instant-tea-rfq-preparation.html)
+- [Botanical Extract Document Package](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/botanical-extract-document-package.html)
+- [Beverage Powder Application Testing](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/beverage-powder-application-testing.html)
+
 ## PDF Downloads
 
 - [Tea Powder Procurement Checklist PDF](https://github.com/dsahkl/iherbsea-b2b-ingredient-sourcing/releases/download/v1.0.0/tea-powder-procurement-checklist.pdf)
