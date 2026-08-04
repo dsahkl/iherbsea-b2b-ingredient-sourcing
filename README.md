@@ -15,6 +15,14 @@ This repository is maintained as a lightweight public resource for procurement, 
 
 ## GitHub Pages Buyer Review Notes
 
+- [Bulk Ingredient Product Finder Map](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/bulk-ingredient-product-finder-map.html)
+- [Ingredient Sourcing Resource Center Map](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/ingredient-sourcing-resource-center-map.html)
+- [Bulk Ingredient Sample Request Note](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/bulk-ingredient-sample-request-note.html)
+- [Food Ingredient RFQ Template Note](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/food-ingredient-rfq-template-note.html)
+- [Ingredient Export Documentation Note](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/ingredient-export-documentation-note.html)
+- [Ingredient Supplier Audit Checklist Note](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/ingredient-supplier-audit-checklist-note.html)
+- [Green Tea Extract COA Spec Sheet Note](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/green-tea-extract-coa-spec-sheet-note.html)
+- [Matcha Powder COA Spec Sheet Note](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/matcha-powder-coa-spec-sheet-note.html)
 - [Instant Black Tea Powder Sample Review](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/instant-black-tea-powder-sample-review.html)
 - [Fruit Powder RFQ Fields](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/fruit-powder-rfq-fields.html)
 - [Spice Powder Specification Notes](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/spice-powder-specification-notes.html)
@@ -55,6 +63,12 @@ This repository is maintained as a lightweight public resource for procurement, 
 
 ## Related HERBSEA Pages
 
+- [Bulk Ingredient Product Finder](https://www.iherbsea.com/bulk-ingredient-product-finder/)
+- [Ingredient Sourcing Resource Center](https://www.iherbsea.com/ingredient-sourcing-resource-center/)
+- [Bulk Ingredient Sample Request Template](https://www.iherbsea.com/bulk-ingredient-sample-request-template/)
+- [Food Ingredient RFQ Template](https://www.iherbsea.com/food-ingredient-rfq-template/)
+- [Ingredient Export Documentation Checklist](https://www.iherbsea.com/ingredient-export-documentation-checklist/)
+- [Ingredient Supplier Audit Checklist](https://www.iherbsea.com/ingredient-supplier-audit-checklist/)
 - [Bulk Instant Tea Powder Supplier Guide](https://www.iherbsea.com/bulk-instant-tea-powder-supplier/)
 - [Instant Tea Powder Supplier Category](https://www.iherbsea.com/product-category/instant-tea-powder/)
 - [Instant Black Tea Powder](https://www.iherbsea.com/product/instant-black-tea-powder/)
