@@ -35,6 +35,16 @@ This repository is maintained as a lightweight public resource for procurement, 
 - [Barley Grass Powder Specification Review](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/barley-grass-powder-specification-review.html)
 - [Instant Green Tea Powder Sourcing Note](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/instant-green-tea-powder-sourcing-note.html)
 - [Cinnamon Powder Quality Review](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/cinnamon-powder-quality-review.html)
+- [Supplement Ingredient COA Review](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/supplement-ingredient-coa-review.html)
+- [Plant Protein Powder RFQ Checklist](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/plant-protein-powder-rfq-checklist.html)
+- [Fiber Supplement Powder Formulation Note](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/fiber-supplement-powder-formulation-note.html)
+- [Acerola and Elderberry Powder Document Review](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/acerola-elderberry-powder-document-review.html)
+- [Spirulina Color Powder Sourcing Note](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/spirulina-color-powder-sourcing-note.html)
+- [Reishi and Cordyceps Mushroom Document Check](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/reishi-cordyceps-mushroom-document-check.html)
+- [Marigold and Olive Leaf Extract COA Note](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/marigold-olive-leaf-extract-coa-note.html)
+- [Broccoli and Berberine Supplement COA Check](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/broccoli-berberine-supplement-coa-check.html)
+- [Urolithin and CoQ10 Formulation RFQ Note](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/urolithin-coq10-formulation-rfq-note.html)
+- [Quercetin and Soy Isoflavone Specification Review](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/quercetin-soy-isoflavone-spec-review.html)
 
 ## PDF Downloads
 
@@ -68,6 +78,16 @@ This repository is maintained as a lightweight public resource for procurement, 
 - [Mushroom Extract Category](https://www.iherbsea.com/product-category/mushroom-extract/)
 - [Instant Green Tea Powder](https://www.iherbsea.com/product/instant-green-tea-powder/)
 - [Cinnamon Powder](https://www.iherbsea.com/product/cinnamon-powder/)
+- [Supplement Ingredient Sourcing Guides](https://www.iherbsea.com/category/dietary-supplements/)
+- [Pea Protein](https://www.iherbsea.com/product/pea-protein/)
+- [Fiber Supplements B2B Formulators Guide](https://www.iherbsea.com/fiber-supplements-b2b-formulators-guide/)
+- [Acerola Cherry Powder](https://www.iherbsea.com/product/acerola-cherry-powder/)
+- [Spirulina Powder](https://www.iherbsea.com/product/spirulina-powder/)
+- [Reishi Mushroom Extract](https://www.iherbsea.com/product/reishi-mushroom-extract/)
+- [Marigold Flower Extract](https://www.iherbsea.com/product/marigold-flower-extract/)
+- [Broccoli Seed Extract COA Guide](https://www.iherbsea.com/broccoli-seed-extract-coa-analysis-quality-guide-supplement-brands/)
+- [Urolithin A Powder Supplier Guide](https://www.iherbsea.com/urolithin-a-powder-supplier-specification-coa/)
+- [Quercetin Powder](https://www.iherbsea.com/product/quercetin-powder/)
 
 ## Use
 
