@@ -53,6 +53,16 @@ This repository is maintained as a lightweight public resource for procurement, 
 - [Broccoli and Berberine Supplement COA Check](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/broccoli-berberine-supplement-coa-check.html)
 - [Urolithin and CoQ10 Formulation RFQ Note](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/urolithin-coq10-formulation-rfq-note.html)
 - [Quercetin and Soy Isoflavone Specification Review](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/quercetin-soy-isoflavone-spec-review.html)
+- [Mango Powder RFQ Note](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/mango-powder-rfq-note.html)
+- [Pomegranate Powder COA Review](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/pomegranate-powder-coa-review.html)
+- [Coconut Water Powder Application Note](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/coconut-water-powder-application-note.html)
+- [Pumpkin Seed Extract Document Check](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/pumpkin-seed-extract-document-check.html)
+- [Lemon Balm Extract Sample Plan](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/lemon-balm-extract-sample-plan.html)
+- [Blue Spirulina Extract Specification Note](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/blue-spirulina-extract-spec-note.html)
+- [Saffron Extract RFQ Review](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/saffron-extract-rfq-review.html)
+- [Chrysanthemum Extract COA Check](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/chrysanthemum-extract-coa-check.html)
+- [Shikimic Acid Powder Document Review](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/shikimic-acid-powder-document-review.html)
+- [Passion Fruit and Pitaya Powder Pair Note](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/passion-fruit-pitaya-powder-pair-note.html)
 
 ## PDF Downloads
 
@@ -102,6 +112,17 @@ This repository is maintained as a lightweight public resource for procurement, 
 - [Broccoli Seed Extract COA Guide](https://www.iherbsea.com/broccoli-seed-extract-coa-analysis-quality-guide-supplement-brands/)
 - [Urolithin A Powder Supplier Guide](https://www.iherbsea.com/urolithin-a-powder-supplier-specification-coa/)
 - [Quercetin Powder](https://www.iherbsea.com/product/quercetin-powder/)
+- [Mango Powder](https://www.iherbsea.com/product/mango-powder/)
+- [Pomegranate Powder](https://www.iherbsea.com/product/pomegranate-powder/)
+- [Coconut Water Powder](https://www.iherbsea.com/product/coconut-water-powder/)
+- [Pumpkin Seed Extract](https://www.iherbsea.com/product/pumpkin-seed-extract/)
+- [Lemon Balm Extract](https://www.iherbsea.com/product/lemon-balm-extract/)
+- [Blue Spirulina Extract](https://www.iherbsea.com/product/blue-spirulina-extract/)
+- [Saffron Extract](https://www.iherbsea.com/product/saffron-extract/)
+- [Chrysanthemum Extract](https://www.iherbsea.com/product/chrysanthemum-extract/)
+- [Shikimic Acid Powder](https://www.iherbsea.com/product/shikimic-acid-powder/)
+- [Passion Fruit Powder](https://www.iherbsea.com/product/passion-fruit-powder/)
+- [Pitaya Powder](https://www.iherbsea.com/product/pitaya-powder/)
 
 ## Use
 
