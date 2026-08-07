@@ -63,6 +63,16 @@ This repository is maintained as a lightweight public resource for procurement, 
 - [Chrysanthemum Extract COA Check](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/chrysanthemum-extract-coa-check.html)
 - [Shikimic Acid Powder Document Review](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/shikimic-acid-powder-document-review.html)
 - [Passion Fruit and Pitaya Powder Pair Note](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/passion-fruit-pitaya-powder-pair-note.html)
+- [Raspberry Powder Supplier Review](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/raspberry-powder-supplier-review.html)
+- [Pineapple Fruit Powder Sample Plan](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/pineapple-fruit-powder-sample-plan.html)
+- [Guava Fruit Powder COA Review](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/guava-fruit-powder-coa-review.html)
+- [Slippery Elm Bark Powder Document Review](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/slippery-elm-bark-powder-document-review.html)
+- [Kombucha Powder RFQ Note](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/kombucha-powder-rfq-note.html)
+- [Cocoa Powder Audit Note](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/cocoa-powder-audit-note.html)
+- [Coconut Water Powder Export Checklist](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/coconut-water-powder-export-checklist.html)
+- [Passion Fruit Powder Comparison Note](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/passion-fruit-powder-comparison-note.html)
+- [Pitaya Powder Quality Review](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/pitaya-powder-quality-review.html)
+- [Raspberry Pineapple Blend Note](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/raspberry-pineapple-blend-note.html)
 
 ## PDF Downloads
 
@@ -123,6 +133,16 @@ This repository is maintained as a lightweight public resource for procurement, 
 - [Shikimic Acid Powder](https://www.iherbsea.com/product/shikimic-acid-powder/)
 - [Passion Fruit Powder](https://www.iherbsea.com/product/passion-fruit-powder/)
 - [Pitaya Powder](https://www.iherbsea.com/product/pitaya-powder/)
+- [Raspberry Powder](https://www.iherbsea.com/product/raspberry-powder/)
+- [Pineapple Fruit Powder](https://www.iherbsea.com/product/pineapple-fruit-powder/)
+- [Guava Fruit Powder](https://www.iherbsea.com/product/guava-fruit-powder/)
+- [Slippery Elm Bark Powder](https://www.iherbsea.com/product/slippery-elm-bark-powder/)
+- [Kombucha Powder](https://www.iherbsea.com/product/kombucha-powder/)
+- [Cocoa Powder](https://www.iherbsea.com/product/cocoa-powder/)
+- [Coconut Water Powder](https://www.iherbsea.com/product/coconut-water-powder/)
+- [Passion Fruit Powder](https://www.iherbsea.com/product/passion-fruit-powder/)
+- [Pitaya Powder Comparison Note](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/pitaya-powder-quality-review.html)
+- [Raspberry Pineapple Blend Note](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/raspberry-pineapple-blend-note.html)
 
 ## Use
 
