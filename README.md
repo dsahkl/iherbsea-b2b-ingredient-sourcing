@@ -74,6 +74,17 @@ This repository is maintained as a lightweight public resource for procurement, 
 - [Pitaya Powder Quality Review](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/pitaya-powder-quality-review.html)
 - [Raspberry Pineapple Blend Note](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/raspberry-pineapple-blend-note.html)
 
+- [Blueberry Powder Supplier Review](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/blueberry-powder-supplier-review.html)
+- [Acai Cranberry COA Review](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/acai-cranberry-coa-review.html)
+- [Beetroot Coconut Water Sample Plan](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/beetroot-coconut-water-sample-plan.html)
+- [Blackcurrant Pitaya Blend Note](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/blackcurrant-pitaya-blend-note.html)
+- [Moringa Lemon Balm Spec Note](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/moringa-lemon-balm-spec-note.html)
+- [Peppermint Cinnamon RFQ Note](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/peppermint-cinnamon-rfq-note.html)
+- [Oat Fiber Supplement Review](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/oat-fiber-supplement-review.html)
+- [Green Coffee Bean Extract Quality Review](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/green-coffee-bean-extract-quality-review.html)
+- [Inulin Sourcing Checklist](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/inulin-sourcing-checklist.html)
+- [Cranberry Blueberry Comparison Note](https://dsahkl.github.io/iherbsea-b2b-ingredient-sourcing/cranberry-blueberry-comparison-note.html)
+
 ## PDF Downloads
 
 - [Tea Powder Procurement Checklist PDF](https://github.com/dsahkl/iherbsea-b2b-ingredient-sourcing/releases/download/v1.0.0/tea-powder-procurement-checklist.pdf)
